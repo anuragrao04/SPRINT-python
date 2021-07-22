@@ -16,5 +16,8 @@ The Script uses the string library to get a character set of characters that are
 ```pip install string```
 
 ## Link to Video
+Google Drive: https://drive.google.com/file/d/15AyesF4J6j3XQcos_4wYSQYY4E8LLLv2/view?usp=sharing
+
+PCloud: https://u.pcloud.link/publink/show?code=XZLLECXZxxtW4AEvKGbHcTX6FHP0yyXLrQ9k
 
 

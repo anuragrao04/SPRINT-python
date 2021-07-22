@@ -16,5 +16,6 @@ pyttsx3 threw an error which I could not fix. I used gtts instead. gtts converts
 ```pip install playsound```
 
 ## Link to Video
+Google Drive: https://drive.google.com/file/d/1t5Skf5_wPfu2TcnDghFL22yfaoADp93w/view?usp=sharing
 
-
+PCloud: https://u.pcloud.link/publink/show?code=XZ4LECXZsp49dKxM6wzlOgquVDkM8kdCiFik

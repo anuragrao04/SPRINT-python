@@ -15,5 +15,9 @@ The script uses the speedtest library to get download, upload and ping speeds
 
 
 ## Link to Video
+Google Drive: https://drive.google.com/file/d/1Dd6RknTwe6nbxXJs5UTae6uLqEBdITP7/view?usp=sharing
+
+PCloud: https://u.pcloud.link/publink/show?code=XZpLECXZIBcy5RK1IoQy9IlI7YcrujcpI0lV
+
 
 
